@@ -14,7 +14,7 @@ Using article [extractor and summarizer API](https://rapidapi.com/restyler/api/a
 ![](https://github.com/kahenya-anita/Article-Summarizer/assets/62019551/43934678-d31a-424c-91fb-5d86d8ce007e)
 
 
-### SetUp Instruction
+## SetUp Instruction
 
 ### Requirements
 * [React](https://vitejs.dev/guide/)
