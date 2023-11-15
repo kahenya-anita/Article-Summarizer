@@ -4,22 +4,18 @@
 
 
 ## Project Description
-Using article [extractor and summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
-You can 
-##    1. summarize your articles by pastiong article url
-##    2. View previous article History
-##    3. Copy urls to clipboard
+Using article [extractor and summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer) You can:
+###   1. summarize your articles by pastiong article url
+###    2. View previous article History
+###   3. Copy urls to clipboard
 ******
 
 ## SCREENSHOTS
-- ![Screenshot 2023-09-18 at 5 28 42 PM](https://github.com/kahenya-anita/Portfolio101/assets/62019551/93aa6934-3d3b-4a8a-ab2a-644cb4b0a26a)
-
-- 
+![](https://github.com/kahenya-anita/Article-Summarizer/assets/62019551/43934678-d31a-424c-91fb-5d86d8ce007e)
 
 
+### SetUp Instruction
 
-********
-## SetUp Instruction
 ### Requirements
 * [React](https://vitejs.dev/guide/)
 * [API Key](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
@@ -49,16 +45,16 @@ Or you can view hosted project here [https://article-summarizer-dusky.vercel.app
 - Redux
 - Vite
 - Colormind.io
-*****
+  
 ## Technologies Used
 1. HTML
 2. CSS
 3. JavaScript
 4. React
-*****
+   
 ## Contact Information
 * Email : anitakahenya1@gmail.com
-*****
+  
 ## [License](LICENSE)
 MIT License
 Copyright (c) 2023 Anita Kahenya
