@@ -16,14 +16,14 @@ Using article [extractor and summarizer API](https://rapidapi.com/restyler/api/a
 
 ## SetUp Instruction
 
-### Requirements
+### 1. Requirements
 * [React](https://vitejs.dev/guide/)
 * [API Key](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 * [Tailwind CSS](https://tailwindcss.com/)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
 
-### Getting Files
+### 2. Getting Files
 * Fork and clone the repo
 * Open the folder location on terminal and use the following command to run app:
 
